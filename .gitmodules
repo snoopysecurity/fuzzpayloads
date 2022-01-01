@@ -1,0 +1,9 @@
+[submodule "web/IntruderPayloads"]
+	path = web/IntruderPayloads
+	url = https://github.com/1N3/IntruderPayloads.git
+[submodule "web/FUZZING"]
+	path = web/FUZZING
+	url = https://github.com/osamahamad/FUZZING.git
+[submodule "all/SecLists"]
+	path = all/SecLists
+	url = https://github.com/danielmiessler/SecLists.git
