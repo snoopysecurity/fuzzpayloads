@@ -7,3 +7,66 @@
 [submodule "all/SecLists"]
 	path = all/SecLists
 	url = https://github.com/danielmiessler/SecLists.git
+[submodule "all/fuzzdb"]
+	path = all/fuzzdb
+	url = https://github.com/fuzzdb-project/fuzzdb.git
+[submodule "web/fuzzdb"]
+	path = web/fuzzdb
+	url = https://github.com/fuzzdb-project/fuzzdb.git
+[submodule "web/payloads"]
+	path = web/payloads
+	url = https://github.com/xsuperbug/payloads.git
+[submodule "web/XSS-Payloads"]
+	path = web/XSS-Payloads
+	url = https://github.com/7ioSecurity/XSS-Payloads.git
+[submodule "big-list-of-naughty-strings"]
+	path = big-list-of-naughty-strings
+	url = https://github.com/minimaxir/big-list-of-naughty-strings.git
+[submodule "Commodity-Injection-Signatures"]
+	path = Commodity-Injection-Signatures
+	url = https://github.com/xsscx/Commodity-Injection-Signatures.git
+[submodule "misc/RobotsDisallowed"]
+	path = misc/RobotsDisallowed
+	url = https://github.com/danielmiessler/RobotsDisallowed.git
+[submodule "web/Tiny-XSS-Payloads"]
+	path = web/Tiny-XSS-Payloads
+	url = https://github.com/terjanq/Tiny-XSS-Payloads.git
+[submodule "web/xss-payload-list"]
+	path = web/xss-payload-list
+	url = https://github.com/payloadbox/xss-payload-list.git
+[submodule "web/dirsearch-wordlist"]
+	path = web/dirsearch-wordlist
+	url = https://github.com/cujanovic/dirsearch-wordlist.git
+[submodule "web/Virtual-host-wordlist"]
+	path = web/Virtual-host-wordlist
+	url = https://github.com/cujanovic/Virtual-host-wordlist.git
+[submodule "web/CRLF-Injection-Payloads"]
+	path = web/CRLF-Injection-Payloads
+	url = https://github.com/cujanovic/CRLF-Injection-Payloads.git
+[submodule "web/subdomain-bruteforce-list"]
+	path = web/subdomain-bruteforce-list
+	url = https://github.com/cujanovic/subdomain-bruteforce-list.git
+[submodule "web/Open-Redirect-Payloads"]
+	path = web/Open-Redirect-Payloads
+	url = https://github.com/cujanovic/Open-Redirect-Payloads.git
+[submodule "web/Fuzzing-Dicts"]
+	path = web/Fuzzing-Dicts
+	url = https://github.com/3had0w/Fuzzing-Dicts.git
+[submodule "fuzzing_corpus/dictionaries"]
+	path = fuzzing_corpus/dictionaries
+	url = https://github.com/salmonx/dictionaries
+[submodule "web/Fuzzing-Dictionary"]
+	path = web/Fuzzing-Dictionary
+	url = https://github.com/gmtungphan/Fuzzing-Dictionary
+[submodule "fuzzing_corpus/fuzzing-corpus"]
+	path = fuzzing_corpus/fuzzing-corpus
+	url = https://github.com/strongcourage/fuzzing-corpus
+[submodule "fuzzing_corpus/go-fuzz-corpus"]
+	path = fuzzing_corpus/go-fuzz-corpus
+	url = https://github.com/dvyukov/go-fuzz-corpus
+[submodule "web/fuzzDicts"]
+	path = web/fuzzDicts
+	url = https://github.com/TheKingOfDuck/fuzzDicts
+[submodule "fuzzing_corpus/fuzzing"]
+	path = fuzzing_corpus/fuzzing
+	url = https://github.com/google/fuzzing/
