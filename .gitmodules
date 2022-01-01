@@ -70,3 +70,15 @@
 [submodule "fuzzing_corpus/fuzzing"]
 	path = fuzzing_corpus/fuzzing
 	url = https://github.com/google/fuzzing/
+[submodule "fuzzing_corpus/fuzzdata"]
+	path = fuzzing_corpus/fuzzdata
+	url = https://github.com/MozillaSecurity/fuzzdata
+[submodule "fuzzing_corpus/wasm-fuzzing-corpus"]
+	path = fuzzing_corpus/wasm-fuzzing-corpus
+	url = https://github.com/wasmx/wasm-fuzzing-corpus.git
+[submodule "fuzzing_corpus/nss-fuzzing-corpus"]
+	path = fuzzing_corpus/nss-fuzzing-corpus
+	url = https://github.com/mozilla/nss-fuzzing-corpus.git
+[submodule "fuzzing_corpus/ovs-fuzzing-corpus"]
+	path = fuzzing_corpus/ovs-fuzzing-corpus
+	url = https://github.com/openvswitch/ovs-fuzzing-corpus.git
