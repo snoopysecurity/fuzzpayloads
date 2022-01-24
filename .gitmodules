@@ -82,3 +82,6 @@
 [submodule "fuzzing_corpus/ovs-fuzzing-corpus"]
 	path = fuzzing_corpus/ovs-fuzzing-corpus
 	url = https://github.com/openvswitch/ovs-fuzzing-corpus.git
+[submodule "fuzzing_corpus/fuzz.txt"]
+	path = fuzzing_corpus/fuzz.txt
+	url = https://github.com/Bo0oM/fuzz.txt.git
