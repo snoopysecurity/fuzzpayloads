@@ -85,3 +85,27 @@
 [submodule "fuzzing_corpus/fuzz.txt"]
 	path = fuzzing_corpus/fuzz.txt
 	url = https://github.com/Bo0oM/fuzz.txt.git
+[submodule "all/wordlists"]
+	path = all/wordlists
+	url = https://github.com/xajkep/wordlists.git
+[submodule "fuzzing_corpus/fuzzing-corpus-ak"]
+	path = fuzzing_corpus/fuzzing-corpus-ak
+	url = https://github.com/askama-rs/fuzzing-corpus.git
+[submodule "fuzzing_corpus/quickjs-corpus"]
+	path = fuzzing_corpus/quickjs-corpus
+	url = https://github.com/renatahodovan/quickjs-corpus.git
+[submodule "fuzzing_corpus/clamav-fuzz-corpus"]
+	path = fuzzing_corpus/clamav-fuzz-corpus
+	url = https://github.com/Cisco-Talos/clamav-fuzz-corpus.git
+[submodule "fuzzing_corpus/fuzz-corpora"]
+	path = fuzzing_corpus/fuzz-corpora
+	url = https://github.com/openssl/fuzz-corpora.git
+[submodule "fuzzing_corpus/solidity=fuzzing-corpus"]
+	path = fuzzing_corpus/solidity=fuzzing-corpus
+	url = https://github.com/ethereum/solidity-fuzzing-corpus.git
+[submodule "fuzzing_corpus/fuzz-corpus"]
+	path = fuzzing_corpus/fuzz-corpus
+	url = https://github.com/FerretDB/fuzz-corpus.git
+[submodule "fuzzing_corpus/corpus_pdfs"]
+	path = fuzzing_corpus/corpus_pdfs
+	url = https://github.com/0ca/corpus_pdfs.git
